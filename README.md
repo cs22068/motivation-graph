@@ -2,7 +2,7 @@
 
 人生のモチベーション推移を可視化するインタラクティブなグラフアプリです。
 
-🔗 **デモ**: https://cs22068.github.io/Motivation-Graph
+🔗 **デモ**: https://ユーザー名.github.io/Motivation-Graph
 
 ## 機能
 
